@@ -1,5 +1,6 @@
 public with sharing class AccountController {
  //Sample change
+ //Change for HotFix
  @AuraEnabled
  public static List<Account> findAll() {
  return [SELECT Id, Name, Location__Latitude__s, Location__Longitude__s
