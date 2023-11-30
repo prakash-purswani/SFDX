@@ -20,8 +20,8 @@ Deliverable Complexity
 
 ### Testing
 
-- [ ] Unit testing document is attached
-- [ ] Positive / Negative testing done
+- [ ] Unit testing document is attached.
+- [ ] Positive / Negative testing done.
 - [ ] Not Applicable
 
 Additional comments: 
@@ -33,11 +33,11 @@ Additional comments:
 - [ ] Description is added for all components.
 - [ ] **Validation Rules:** Bypass logic has been added in Validation Rules.
 - [ ] **Flows:** Entry criteria filters irrelevant records.
-- [ ] **Flows:** Bypass logic is added in the entry critera
+- [ ] **Flows:** Bypass logic is added in the entry criteria.
 - [ ] **Flows:** Best practices are followed - [Reference](https://admin.salesforce.com/blog/2021/the-ultimate-guide-to-flow-best-practices-and-standards)
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### Apex
 
@@ -47,10 +47,10 @@ Additional comments :
 - [ ] Trigger Framework has been used wherever applicable.
 - [ ] Coding standards are followed as per Sanofi guidelines - (LINK TO BE ADDED)
 - [ ] Exception handling and Logging has been implemented.
-- [ ] Security best practices are followed to control data visbility.
+- [ ] Security best practices are followed to control data visibility.
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### LWC
 
@@ -60,7 +60,7 @@ Additional comments :
 - [ ] Description is added for all components.
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### Integration
 
@@ -71,14 +71,14 @@ Additional comments :
 - [ ] Necessary Framework classes are used for REST callouts and Platform Event publishing.
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### Omniscript
 
 - [ ] To be added later
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### Security
 
@@ -86,13 +86,13 @@ Additional comments :
 - [ ] More to be added
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
 ### Code scan
 
-- [ ] SonarQube Static Code Analysis is sucessful without any Critial issues
+- [ ] SonarQube Static Code analysis is successful without any critical/high category issues.
 
-Additional comments : 
+Additional comments: 
 
 # Review Bypassed
 
