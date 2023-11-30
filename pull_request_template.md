@@ -27,7 +27,7 @@ Reviewer(s)
 
 # Review Bypassed
 
-[ ] Review Bypassed
+- [ ] Review Bypassed
 
 Justification:
 
