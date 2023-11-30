@@ -1,11 +1,13 @@
-# Description
+> [!NOTE]
+> Please fill the below checklist as per the contents of the Pull Request. 
+> Mark "Not Applicable" as needed.
 
-Please fill the below checklist as per the contents of the Pull Request. Mark "Not Applicable" as needed.
+## Key Information
 
-Deliverable Name (Enter JIRA Story Numbers - comma separated): 
+Deliverable Name (Enter JIRA Story Numbers - comma separated):
 
 
-Deliverable Owner (Developer Sanofi Email Address): 
+Deliverable Owner (Developer Sanofi Email Address):
 
 
 Deliverable Type
@@ -25,11 +27,17 @@ Reviewer(s)
 - [ ] Bhawna Agrawal
 
 
-# Review Bypassed
+## Review Bypassed
 
-- [ ] Review Bypassed
+- [ ] **I approve to bypass the review.**
 
-Justification:
+**Justification**
+
+- [ ] HotFix / Incident Fix
+- [ ] Non-Technical change
+- [ ] DevOps configuration
+- [ ] Other (please add the justification in comments)
+
 
 ## Testing Checklist
 
