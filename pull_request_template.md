@@ -28,7 +28,7 @@ Additional comments:
 
 ### Configuration
 
-- [ ] Sanofi Naming conventions followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
+- [ ] Sanofi Naming conventions and best practices followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
 - [ ] Profiles do not include any FLS or CRUD permissions, most of the permissions are part of the Permission Sets.
 - [ ] Description is added for all components.
 - [ ] Not Applicable
