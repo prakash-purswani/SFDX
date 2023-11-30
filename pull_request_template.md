@@ -2,13 +2,9 @@
 > Please fill the below checklist as per the contents of the Pull Request. 
 > Mark "Not Applicable" as needed.
 
-## Key Information
+### Key Information
 
 Deliverable Name (Enter JIRA Story Numbers - comma separated):
-
-
-Deliverable Owner (Developer Sanofi Email Address):
-
 
 Deliverable Type
 
@@ -21,25 +17,8 @@ Deliverable Complexity
 - [ ] MEDIUM
 - [ ] HIGH
 
-Reviewer(s)
 
-- [ ] Anukriti Agrawal
-- [ ] Bhawna Agrawal
-
-
-## Review Bypassed
-
-- [ ] **I approve to bypass the review.**
-
-**Justification**
-
-- [ ] HotFix / Incident Fix
-- [ ] Non-Technical change
-- [ ] DevOps configuration
-- [ ] Other (please add the justification in comments)
-
-
-## Testing Checklist
+### Testing
 
 - [ ] Unit testing document is attached
 - [ ] Positive / Negative testing done
@@ -47,7 +26,7 @@ Reviewer(s)
 
 Additional comments: 
 
-## Configuration Checklist:
+### Configuration
 
 - [ ] Sanofi Naming conventions followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
 - [ ] Profiles do not include any FLS or CRUD permissions, most of the permissions are part of the Permission Sets.
@@ -56,7 +35,7 @@ Additional comments:
 
 Additional comments : 
 
-## Apex Checklist:
+### Apex
 
 - [ ] Sanofi Naming conventions followed for Apex Classes, Apex Triggers, etc.
 - [ ] Code comments and change log as per the Apex Java Doc format.
@@ -69,17 +48,17 @@ Additional comments :
 
 Additional comments : 
 
-## LWC Checklist:
+### LWC
 
 - [ ] Sanofi Naming conventions followed for Component Names and other metadata.
-- [ ] LWC performance best practices followed - (LINK TO BE ADDED)
+- [ ] LWC performance best practices are followed - [Reference](https://developer.salesforce.com/blogs/2020/06/lightning-web-components-performance-best-practices)
 - [ ] LWC config file reviewed for correct targets.
 - [ ] Description is added for all components.
 - [ ] Not Applicable
 
 Additional comments : 
 
-## Integration Checklist:
+### Integration
 
 - [ ] Named Credential is used for Endpoint and other information.
 - [ ] No hard-coded URLs or credentials in the code.
@@ -90,14 +69,14 @@ Additional comments :
 
 Additional comments : 
 
-## Omniscript Checklist:
+### Omniscript
 
 - [ ] To be added later
 - [ ] Not Applicable
 
 Additional comments : 
 
-## Security Checklist:
+### Security
 
 - [ ] No PII/PHI data in the code
 - [ ] More to be added
@@ -105,8 +84,22 @@ Additional comments :
 
 Additional comments : 
 
-## Code scan Checklist:
+### Code scan
 
 - [ ] SonarQube Static Code Analysis is sucessful without any Critial issues
 
 Additional comments : 
+
+# Review Bypassed
+
+- [ ] **I approve to bypass the review.**
+
+> [!WARNING]
+> Bypassing the review process should be done only in valid cases with proper justification.
+
+**Justification**
+
+- [ ] HotFix / Incident Fix
+- [ ] Non-Technical change
+- [ ] DevOps configuration
+- [ ] Other (please add the justification in comments)
