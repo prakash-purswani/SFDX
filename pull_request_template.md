@@ -4,7 +4,9 @@ Please fill the below checklist as per the contents of the Pull Request. Mark "N
 
 Deliverable Name (Enter JIRA Story Numbers - comma separated): 
 
+
 Deliverable Owner (Developer Sanofi Email Address): 
+
 
 Deliverable Type
 
