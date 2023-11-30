@@ -31,6 +31,10 @@ Additional comments:
 - [ ] Sanofi Naming conventions and best practices followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
 - [ ] Profiles do not include any FLS or CRUD permissions, most of the permissions are part of the Permission Sets.
 - [ ] Description is added for all components.
+- [ ] **Validation Rules:** Bypass logic has been added in Validation Rules.
+- [ ] **Flows:** Entry criteria filters irrelevant records.
+- [ ] **Flows:** Bypass logic is added in the entry critera
+- [ ] **Flows:** Best practices are followed - [Reference](https://admin.salesforce.com/blog/2021/the-ultimate-guide-to-flow-best-practices-and-standards)
 - [ ] Not Applicable
 
 Additional comments : 
