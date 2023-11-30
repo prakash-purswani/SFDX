@@ -2,34 +2,42 @@
 
 Please fill the below checklist as per the contents of the Pull Request. Mark "Not Applicable" as needed.
 
-Deliverable Name (Enter JIRA Story Numbers - comma separated) : 
-Deliverable Owner (Developer Sanofi Email Address) : 
-Deliverable Type :
+Deliverable Name (Enter JIRA Story Numbers - comma separated): 
+
+Deliverable Owner (Developer Sanofi Email Address): 
+
+Deliverable Type
+
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
-Deliverable Complexity:
+
+Deliverable Complexity
+
 - [ ] LOW
 - [ ] MEDIUM
 - [ ] HIGH
 
-Reviewer:
+Reviewer(s)
+
 - [ ] Anukriti Agrawal
 - [ ] Bhawna Agrawal
 
-# Review Bypassed:
+
+# Review Bypassed
 
 [ ] Review Bypassed
-Justification :
 
-# Testing Checklist:
+Justification:
+
+## Testing Checklist
 
 - [ ] Unit testing document is attached
 - [ ] Positive / Negative testing done
 - [ ] Not Applicable
 
-Additional comments : 
+Additional comments: 
 
-# Configuration Checklist:
+## Configuration Checklist:
 
 - [ ] Sanofi Naming conventions followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
 - [ ] Profiles do not include any FLS or CRUD permissions, most of the permissions are part of the Permission Sets.
@@ -38,7 +46,7 @@ Additional comments :
 
 Additional comments : 
 
-# Apex Checklist:
+## Apex Checklist:
 
 - [ ] Sanofi Naming conventions followed for Apex Classes, Apex Triggers, etc.
 - [ ] Code comments and change log as per the Apex Java Doc format.
@@ -51,7 +59,7 @@ Additional comments :
 
 Additional comments : 
 
-# LWC Checklist:
+## LWC Checklist:
 
 - [ ] Sanofi Naming conventions followed for Component Names and other metadata.
 - [ ] LWC performance best practices followed - (LINK TO BE ADDED)
@@ -61,7 +69,7 @@ Additional comments :
 
 Additional comments : 
 
-# Integration Checklist:
+## Integration Checklist:
 
 - [ ] Named Credential is used for Endpoint and other information.
 - [ ] No hard-coded URLs or credentials in the code.
@@ -72,14 +80,14 @@ Additional comments :
 
 Additional comments : 
 
-# Omniscript Checklist:
+## Omniscript Checklist:
 
 - [ ] To be added later
 - [ ] Not Applicable
 
 Additional comments : 
 
-# Security Checklist:
+## Security Checklist:
 
 - [ ] No PII/PHI data in the code
 - [ ] More to be added
@@ -87,7 +95,7 @@ Additional comments :
 
 Additional comments : 
 
-# Code scan Checklist:
+## Code scan Checklist:
 
 - [ ] SonarQube Static Code Analysis is sucessful without any Critial issues
 
