@@ -28,7 +28,7 @@ Additional comments:
 
 ### Configuration
 
-- [ ] Sanofi Naming conventions and best practices followed for Fields/Objects/Flows/Validation Rules, etc.  - (LINK TO BE ADDED)
+- [ ] Sanofi Naming conventions and best practices followed for Fields/Objects/Flows/Validation Rules, etc.  - [Reference](https://ts.accenture.com/:x:/r/sites/SanofiHealthCloud/Shared%20Documents/General/9_Developer%20Guidelines/Sanofi%20-%20SFDC%20Naming%20Conventions.xls?d=w56831bf8a67b4e88bd9f1925d476f991&csf=1&web=1&e=XDRSuT)
 - [ ] Profiles do not include any FLS or CRUD permissions, most of the permissions are part of the Permission Sets.
 - [ ] Description is added for all components.
 - [ ] **Validation Rules:** Bypass logic has been added in Validation Rules.
@@ -41,11 +41,11 @@ Additional comments:
 
 ### Apex
 
-- [ ] Sanofi Naming conventions followed for Apex Classes, Apex Triggers, etc.
+- [ ] Sanofi Naming conventions followed for Apex Classes, Apex Triggers, etc.  - [Reference](https://ts.accenture.com/:x:/r/sites/SanofiHealthCloud/Shared%20Documents/General/9_Developer%20Guidelines/Sanofi%20-%20SFDC%20Naming%20Conventions.xls?d=w56831bf8a67b4e88bd9f1925d476f991&csf=1&web=1&e=XDRSuT)
 - [ ] Code comments and change log as per the Apex Java Doc format.
 - [ ] Best practices are followed to handle Governor limits. 
 - [ ] Trigger Framework has been used wherever applicable.
-- [ ] Coding standards are followed as per Sanofi guidelines - (LINK TO BE ADDED)
+- [ ] Coding standards are followed as per Sanofi guidelines - [Reference](https://ts.accenture.com/:p:/r/sites/SanofiHealthCloud/Shared%20Documents/General/9_Developer%20Guidelines/Sanofi%20-%20Developer%20Guidelines%20and%20Best%20Practices.pptx?d=w2a8e20101e4d4382b282878ce629ac77&csf=1&web=1&e=zDnagC)
 - [ ] Exception handling and Logging has been implemented.
 - [ ] Security best practices are followed to control data visibility.
 - [ ] Not Applicable
@@ -73,9 +73,11 @@ Additional comments:
 
 Additional comments: 
 
-### Omniscript
+### Omnistudio (Omniscript, Data Raptor, Integration Procedure)
 
-- [ ] To be added later
+- [ ] Omniscript best practices are followed. - [OmniStudio Standard](https://help.salesforce.com/s/articleView?id=sf.os_omniscript_best_practices_8368.htm&type=5) / [OmniStudio for Vlocity](https://help.salesforce.com/s/articleView?id=sf.os_omnistudio_for_vlocity.htm&type=5) 
+- [ ] Data Raptor best practices are followed. - [Reference](https://help.salesforce.com/s/articleView?id=sf.os_omniscript_best_practices.htm&type=5)
+- [ ] Integration Procedure best practices are followed. - [Reference](https://help.salesforce.com/s/articleView?id=sf.os_integration_procedure_best_practices_54721.htm&type=5)
 - [ ] Not Applicable
 
 Additional comments: 
